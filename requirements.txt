@@ -1,0 +1,11 @@
+# Dependências do projeto Python QA
+
+# Geração de dados fictícios
+faker>=19.0.0
+
+# Requisições HTTP para APIs
+requests>=2.31.0
+
+# Manipulação de dados
+pandas>=2.0.0
+
